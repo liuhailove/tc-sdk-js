@@ -124,3 +124,4 @@ docs/
 pkg/
 bin/
 example/build/
+.vscode
